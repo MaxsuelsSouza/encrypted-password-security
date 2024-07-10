@@ -1,0 +1,14 @@
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\bin\Debug\net8.0\SenhaIdentidade.exe
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\bin\Debug\net8.0\SenhaIdentidade.deps.json
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\bin\Debug\net8.0\SenhaIdentidade.runtimeconfig.json
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\bin\Debug\net8.0\SenhaIdentidade.dll
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\bin\Debug\net8.0\SenhaIdentidade.pdb
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.AssemblyInfoInputs.cache
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.AssemblyInfo.cs
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.csproj.CoreCompileInputs.cache
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.dll
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\refint\SenhaIdentidade.dll
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.pdb
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.genruntimeconfig.cache
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\ref\SenhaIdentidade.dll
