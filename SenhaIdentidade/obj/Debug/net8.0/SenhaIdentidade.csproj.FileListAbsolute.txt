@@ -12,3 +12,4 @@ D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net
 D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.pdb
 D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.genruntimeconfig.cache
 D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\ref\SenhaIdentidade.dll
+D:\Codigo\Projetos Pessoais\SenhasEncriptografadas\SenhaIdentidade\obj\Debug\net8.0\SenhaIdentidade.sourcelink.json

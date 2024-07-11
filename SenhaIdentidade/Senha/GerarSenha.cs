@@ -1,4 +1,4 @@
-namespace SenhaIdentidade.Senha.Exceptions
+namespace SenhaIdentidade.Senha
 {
     public static class GerarSenha
     {

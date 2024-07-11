@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SenhaIdentidade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c550c3d2dec0c67559cbd976c606f553d1464cbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SenhaIdentidade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SenhaIdentidade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
